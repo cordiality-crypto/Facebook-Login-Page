@@ -1,0 +1,15 @@
+{
+  "name": "facebook-login-page",
+  "version": "1.0.0",
+  "description": "Facebook login page using Tailwind CSS",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herzlichkeit",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
